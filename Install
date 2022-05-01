@@ -1,0 +1,18 @@
+Go To https://www.tenable.com/products/nessus
+
+look for nessus essential
+
+select download
+
+get your free activation code
+
+if your system has no support than get the download from teneble downloads.(download it just in case)
+
+go to terminal and cd to downloads
+
+run the command "sudo dpkg -i [package]
+
+to start the program run "sudo systemctl start nessusd.service"
+
+to check if the program in running run "sudo systemctl status nessusd.service"
+
