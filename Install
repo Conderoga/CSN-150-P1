@@ -15,4 +15,3 @@ run the command "sudo dpkg -i [package]
 to start the program run "sudo systemctl start nessusd.service"
 
 to check if the program in running run "sudo systemctl status nessusd.service"
-
